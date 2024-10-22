@@ -7,8 +7,7 @@ A simple user account management application built with React. This app allows u
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+
 
 ## Features
 
