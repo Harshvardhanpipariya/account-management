@@ -9,7 +9,6 @@ A simple user account management application built with React. This app allows u
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
